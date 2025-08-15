@@ -1,2 +1,2 @@
 # challenge_telecom_X_CGR
-Analisis de pérdida de clientes
+Analisis de perdida de clientes
